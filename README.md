@@ -25,28 +25,28 @@
 :worried:
 
 1. creational patterns
-	-[] abstract factory
-	-[] builder
-	-[] factory method
-	-[] prototype
-	-[] singleton
+	- [x] abstract factory
+	- [] builder
+	- [] factory method
+	- [] prototype
+	- [x] singleton
 2. structural patterns
-	-[] adapter
-	-[] bridge
-	-[] composite
-	-[] decorator
-	-[] facade
-	-[] flyweight
-	-[] proxy
+	- [] adapter
+	- [x] bridge
+	- [x] composite
+	- [x] decorator
+	- [] facade
+	- [] flyweight
+	- [] proxy
 3. behavioral patterns
-	-[] mediator
-	-[] observer
-	-[] strategy
-	-[] iterator
-	-[] interpreter
-	-[] command
-	-[] chain of responsibility
-	-[] state
+	- [x] mediator
+	- [x] observer
+	- [x] strategy
+	- [x] iterator
+	- [x] interpreter
+	- [x] command
+	- [x] chain of responsibility
+	- [x] state
 
 
 
