@@ -26,18 +26,18 @@
 
 1. creational patterns
 	- [x] abstract factory
-	- [] builder
-	- [] factory method
-	- [] prototype
+	- []  builder
+	- []  factory method
+	- []  prototype
 	- [x] singleton
 2. structural patterns
-	- [] adapter
+	- []  adapter
 	- [x] bridge
 	- [x] composite
 	- [x] decorator
-	- [] facade
-	- [] flyweight
-	- [] proxy
+	- []  facade
+	- []  flyweight
+	- []  proxy
 3. behavioral patterns
 	- [x] mediator
 	- [x] observer
@@ -47,6 +47,8 @@
 	- [x] command
 	- [x] chain of responsibility
 	- [x] state
+	- []  template method
+	- []  visitor
 
 
 
